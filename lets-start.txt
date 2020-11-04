@@ -1,1 +1,21 @@
+---------------------------------------------------------------------
+Development
+---------------------------------------------------------------------
+# the process of becoming bigger, stronger, better etc., or of making somebody/something do this.
+# software : set of instruction
+->System Software [OS] windows , linux ,mac ,android , driver
+->Application software 
+->user specific Application
+->desktop Application
+->web Application
+-----------------------------------------------------------------------
+Web Development
+-----------------------------------------------------------------------
+A.Client Side ( design)
+B.Server Side ( logic / file system / database)
+------------------------------------------------------------------------
+A.info => html , css , javascript , jquery , html 5 , css3 , bootstrap
+B.info =>PHP / Java / .net / python / node .....
+
+
 
