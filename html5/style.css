@@ -1,0 +1,10 @@
+*{ margin:0; padding:0;}
+header,nav,section,article,aside,footer{ display:block;}
+header{ height:100px; background:#AF5759;}
+header h1{ color:white; line-height:100px;}
+nav{}
+nav ul{}
+nav ul li{ display:inline;}
+nav ul li a{}
+section{ min-height:600px;}
+footer{ background:#CD4749;}
