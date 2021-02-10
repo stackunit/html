@@ -6,4 +6,6 @@ All About HTML Structure For Development Code  Repository
 
 > <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a>
 
+> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a>
+
 
