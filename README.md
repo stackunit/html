@@ -4,50 +4,35 @@ All About HTML Structure For Development Code  Repository
 HTML used for creating web structure of a document
 <hr>
 
-<table border="1" width="100%">
+<table border="1" width="700px">
         <tr>
             <td width="50%">
-             
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
- 
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
+                <ol>
+                    <li> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/nested-table.html">Nested Table</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/form.html">HTML Form </a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/login.html">Login Form</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a></li>
+                </ol>
+            </td>
 
-> <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a>
-
-> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a>
-
-> <a href="https://codewithpunit.github.io/html/nested-table.html">Nested Table</a>
-
-> <a href="https://codewithpunit.github.io/html/form.html">HTML Form </a>
-
-> <a href="https://codewithpunit.github.io/html/login.html">Login Form</a>
-
-> <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
-
-</td>
-                
-<td width="50%">
-                    
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
- 
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
-
-> <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a>
-
-> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a>
-
-> <a href="https://codewithpunit.github.io/html/nested-table.html">Nested Table</a>
-
-> <a href="https://codewithpunit.github.io/html/form.html">HTML Form </a>
-
-> <a href="https://codewithpunit.github.io/html/login.html">Login Form</a>
-
-> <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
-
-</td>
-                
-</tr>
-</table>
+            <td>
+                <ol>
+                    <li> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/nested-table.html">Nested Table</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/form.html">HTML Form </a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/login.html">Login Form</a></li>
+                    <li> <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a></li>
+                </ol>
+            </td>
+        </tr>
+    </table>
 
 
 # HTML5 Example
