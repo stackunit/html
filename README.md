@@ -8,7 +8,7 @@ HTML used for creating web structure of a document
 
 > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
 
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Article</a>
+> <a href="https://codewithpunit.github.io/html/html-article.html">HTML Article</a>
 
 > <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a>
 
