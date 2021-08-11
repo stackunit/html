@@ -4,7 +4,11 @@ All About HTML Structure For Development Code  Repository
 HTML used for creating web structure of a document
 <hr>
 
-> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
+<table border="1" width="70%" align="center">
+        <tr>
+            <td width="100%">
+             
+             > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
  
 > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
 
@@ -19,6 +23,13 @@ HTML used for creating web structure of a document
 > <a href="https://codewithpunit.github.io/html/login.html">Login Form</a>
 
 > <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
+
+         
+         </td>
+            <td width="100%"></td>
+        </tr>
+</table>
+
 
 # HTML5 Example
 
