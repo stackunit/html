@@ -24,9 +24,9 @@ HTML used for creating web structure of a document
 
 > <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
 
-         </td>
+</td>
                 
-            <td width="50%">
+<td width="50%">
                     
 > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
  
@@ -44,8 +44,9 @@ HTML used for creating web structure of a document
 
 > <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
 
-                </td>
-        </tr>
+</td>
+                
+</tr>
 </table>
 
 
