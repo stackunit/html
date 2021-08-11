@@ -1,4 +1,4 @@
-# HTML4 Example
+# HTML Course Module | Code With Punit
 All About HTML Structure For Development Code  Repository
 
 HTML used for creating web structure of a document
