@@ -4,7 +4,7 @@ All About HTML Structure For Development Code  Repository
 HTML used for creating web structure of a document
 <hr>
 
-<table border="1" width="70%" align="center">
+<table border="1" width="100%">
         <tr>
             <td width="50%">
              
