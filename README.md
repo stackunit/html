@@ -33,7 +33,17 @@ HTML used for creating web structure of a document
 
 # HTML5 Example
 
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 Tag</a>
+
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 Video</a>
+
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 Audio</a>
+
 > <a href="https://codewithpunit.github.io/canvas/">HTML5 Canvas</a>
+
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 SVG</a>
+
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 API</a>
 
 <hr>
 
