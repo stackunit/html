@@ -18,7 +18,7 @@ All About HTML Structure For Development Code  Repository
 
 # HTML5 Example
 
-> <a href="https://codewithpunit.github.io/html/html5/canvas.html">HTML5 Canvas</a>
+> <a href="https://codewithpunit.github.io/canvas/">HTML5 Canvas</a>
 
 
 
