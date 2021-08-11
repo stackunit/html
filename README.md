@@ -26,6 +26,10 @@ HTML used for creating web structure of a document
 
 > <a href="https://codewithpunit.github.io/html/login1.html">HTML List</a>
 
+> <a href="https://codewithpunit.github.io/html/login1.html">HTML Iframe</a>
+
+> <a href="https://codewithpunit.github.io/html/login1.html">HTML Map</a>
+
 
 # HTML5 Example
 
