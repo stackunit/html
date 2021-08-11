@@ -6,9 +6,9 @@ HTML used for creating web structure of a document
 
 <table border="1" width="70%" align="center">
         <tr>
-            <td width="100%">
+            <td width="50%">
              
- > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
+> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
  
 > <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
 
@@ -24,9 +24,26 @@ HTML used for creating web structure of a document
 
 > <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
 
-         
          </td>
-            <td width="100%"></td>
+            <td width="50%">
+                    
+> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Inteoduction</a>
+ 
+> <a href="https://codewithpunit.github.io/html/html-basic-tag.html">HTML Basic Tag</a>
+
+> <a href="https://codewithpunit.github.io/html/table-structure.html">Table Structure</a>
+
+> <a href="https://codewithpunit.github.io/html/table-template.html">Table Template</a>
+
+> <a href="https://codewithpunit.github.io/html/nested-table.html">Nested Table</a>
+
+> <a href="https://codewithpunit.github.io/html/form.html">HTML Form </a>
+
+> <a href="https://codewithpunit.github.io/html/login.html">Login Form</a>
+
+> <a href="https://codewithpunit.github.io/html/login1.html">Login Form With Table</a>
+
+                </td>
         </tr>
 </table>
 
