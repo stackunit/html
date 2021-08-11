@@ -5,8 +5,10 @@ HTML used for creating web structure of a document
 <hr>
 
 <table border="1" width="700px">
+
 <tr>
-<td width="50%">
+
+ <td>
 
                         <ol>
                                 
