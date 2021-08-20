@@ -1,6 +1,8 @@
 # HTML Course Module | Code With Punit
 All About HTML Structure For Development Code  Repository
 
+<img src="https://codewithpunit.com/image/logo.png">
+
 HTML used for creating web structure of a document
 <hr>
                              
